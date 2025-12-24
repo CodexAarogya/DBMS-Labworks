@@ -38,11 +38,12 @@ SELECT * FROM booklist;
 SELECT * FROM employee;
 SELECT * FROM issues;
 SELECT * FROM teacher;
+SELECT * FROM student;
 
 /*Find all bookname, publication and author name where publication is 'b_publication'.*/
-SELECT bname as bookname, publication, name as author FROM booklist,bookID WHERE publication = 'a_publication';
+SELECT i.bname as bookname, l.publication, i.author as author FROM booklist as l,bookID as i WHERE publication = 'b_publication' AND i.bid = l.isbn;
 
-/*Find the teachers name and faculty whose date of employee JAN1, 2015.*/
+/*Find the teachers name and faculty whose date of employee JAN1, 2008.*/
 SELECT t.T_name, t.faculty FROM teacher as t, employee as e WHERE t.T_name = e.ename AND e.date_of_employ = '2008-01-01' 
 
 /*find the employee name whose salary > 10000 and faculty is computer.*/
@@ -61,12 +62,13 @@ set author = 'thomas' WHERE bid = 1400;
 UPDATE bookID
 set author = 'frank' WHERE bid = 1500;
 
-/*Find techer's name and book name issues by teacher whose name starts with 's'*/
+/*Find techer's name and book name issues by teacher whose name starts with 'd'*/
 SELECT DISTINCT t.T_name, b.bname FROM teacher as t, bookID as b, issues as i WHERE t.T_name = b.author AND t.T_name LIKE 'd%';
 
 /*Update all salary by 10%*/
 UPDATE employee
 set salary = 1.1*salary 
+SELECT salary FROM employee;
 
 /*Find top 3 teachers with the highest salaries*/
 SELECT TOP(3) salary, name FROM  (SELECT e.salary as salary, t.T_name as name FROM employee AS e
