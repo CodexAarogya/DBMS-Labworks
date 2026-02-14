@@ -1,0 +1,11 @@
+﻿category                                           avg_price_per_category
+-------------------------------------------------- ---------------------------------------
+Accessories                                        33.240000
+Electronics                                        359.990000
+Furniture                                          298.656666
+Stationery                                         12.490000
+
+(4 rows affected)
+
+
+Completion time: 2026-02-13T10:42:52.9404419+05:45

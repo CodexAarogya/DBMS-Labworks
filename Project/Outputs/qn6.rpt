@@ -1,0 +1,14 @@
+﻿country                                            total_customers
+-------------------------------------------------- ---------------
+Australia                                          1
+Canada                                             2
+France                                             1
+Germany                                            1
+Japan                                              1
+UK                                                 2
+USA                                                2
+
+(7 rows affected)
+
+
+Completion time: 2026-02-13T10:00:56.7560368+05:45

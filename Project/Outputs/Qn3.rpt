@@ -1,0 +1,31 @@
+﻿first_name                                         last_name                                          product_name                                                                                         quantity
+-------------------------------------------------- -------------------------------------------------- ---------------------------------------------------------------------------------------------------- -----------
+John                                               Doe                                                Laptop Pro 15                                                                                        1
+John                                               Doe                                                Wireless Mouse                                                                                       1
+Jane                                               Smith                                              Office Chair                                                                                         1
+Mike                                               Johnson                                            Monitor 27"                                                                                          1
+Mike                                               Johnson                                            Office Chair                                                                                         1
+John                                               Doe                                                Webcam HD                                                                                            1
+Sarah                                              Williams                                           Laptop Pro 15                                                                                        1
+Sarah                                              Williams                                           Monitor 27"                                                                                          1
+Sarah                                              Williams                                           Headphones Pro                                                                                       1
+David                                              Brown                                              Headphones Pro                                                                                       1
+Jane                                               Smith                                              Desk Lamp                                                                                            1
+Emily                                              Davis                                              Wireless Mouse                                                                                       1
+Emily                                              Davis                                              Monitor 27"                                                                                          1
+Chris                                              Miller                                             Laptop Pro 15                                                                                        1
+Chris                                              Miller                                             Mechanical Keyboard                                                                                  1
+Chris                                              Miller                                             USB-C Cable                                                                                          1
+Chris                                              Miller                                             Cable Organizer                                                                                      3
+Anna                                               Wilson                                             Notebook Set                                                                                         1
+Anna                                               Wilson                                             Pen Collection                                                                                       1
+Mike                                               Johnson                                            Standing Desk                                                                                        1
+Tom                                                Moore                                              Mechanical Keyboard                                                                                  1
+Lisa                                               Taylor                                             Backpack Tech                                                                                        1
+Sarah                                              Williams                                           Monitor 27"                                                                                          1
+John                                               Doe                                                Wireless Mouse                                                                                       1
+
+(24 rows affected)
+
+
+Completion time: 2026-02-10T21:36:04.0104272+05:45

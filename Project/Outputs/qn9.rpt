@@ -1,0 +1,17 @@
+﻿first_name                                         last_name                                          total_orders_placed
+-------------------------------------------------- -------------------------------------------------- -------------------
+John                                               Doe                                                3
+Jane                                               Smith                                              2
+Mike                                               Johnson                                            2
+Sarah                                              Williams                                           2
+David                                              Brown                                              1
+Emily                                              Davis                                              1
+Chris                                              Miller                                             1
+Anna                                               Wilson                                             1
+Tom                                                Moore                                              1
+Lisa                                               Taylor                                             1
+
+(10 rows affected)
+
+
+Completion time: 2026-02-13T10:50:37.8742103+05:45

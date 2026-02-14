@@ -1,0 +1,31 @@
+﻿product_name                                                                                         category                                           price                                   quantity    order_date
+---------------------------------------------------------------------------------------------------- -------------------------------------------------- --------------------------------------- ----------- ----------
+Laptop Pro 15                                                                                        Electronics                                        1299.99                                 1           2024-01-10
+Wireless Mouse                                                                                       Electronics                                        29.99                                   1           2024-01-10
+Office Chair                                                                                         Furniture                                          249.99                                  1           2024-01-12
+Monitor 27"                                                                                          Electronics                                        399.99                                  1           2024-01-15
+Office Chair                                                                                         Furniture                                          249.99                                  1           2024-01-15
+Webcam HD                                                                                            Electronics                                        79.99                                   1           2024-01-18
+Laptop Pro 15                                                                                        Electronics                                        1299.99                                 1           2024-01-20
+Monitor 27"                                                                                          Electronics                                        399.99                                  1           2024-01-20
+Headphones Pro                                                                                       Electronics                                        199.99                                  1           2024-01-20
+Headphones Pro                                                                                       Electronics                                        199.99                                  1           2024-01-22
+Desk Lamp                                                                                            Furniture                                          45.99                                   1           2024-01-25
+Wireless Mouse                                                                                       Electronics                                        29.99                                   1           2024-01-28
+Monitor 27"                                                                                          Electronics                                        399.99                                  1           2024-01-28
+Laptop Pro 15                                                                                        Electronics                                        1299.99                                 1           2024-02-01
+Mechanical Keyboard                                                                                  Electronics                                        149.99                                  1           2024-02-01
+USB-C Cable                                                                                          Accessories                                        12.99                                   1           2024-02-01
+Cable Organizer                                                                                      Accessories                                        9.99                                    3           2024-02-01
+Notebook Set                                                                                         Stationery                                         15.99                                   1           2024-02-03
+Pen Collection                                                                                       Stationery                                         8.99                                    1           2024-02-03
+Standing Desk                                                                                        Furniture                                          599.99                                  1           2024-02-05
+Mechanical Keyboard                                                                                  Electronics                                        149.99                                  1           2024-02-07
+Backpack Tech                                                                                        Accessories                                        89.99                                   1           2024-02-09
+Monitor 27"                                                                                          Electronics                                        399.99                                  1           2024-02-10
+Wireless Mouse                                                                                       Electronics                                        29.99                                   1           2024-02-11
+
+(24 rows affected)
+
+
+Completion time: 2026-02-10T21:23:27.6889738+05:45
